@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 2\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.exe
+D:\placemant\RKIT training\module 2\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.deps.json
+D:\placemant\RKIT training\module 2\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.json
+D:\placemant\RKIT training\module 2\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 2\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.dll
+D:\placemant\RKIT training\module 2\Loops\Loops\bin\Debug\netcoreapp3.1\Loops.pdb
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.AssemblyInfo.cs
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
+D:\placemant\RKIT training\module 2\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
