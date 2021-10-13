@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.exe
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.deps.json
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.runtimeconfig.json
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.dll
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\bin\Debug\netcoreapp3.1\OperatorsAndExpressions.pdb
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.AssemblyInfo.cs
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.dll
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.pdb
+D:\placemant\RKIT training\module 2\OperatorsAndExpressions\OperatorsAndExpressions\obj\Debug\netcoreapp3.1\OperatorsAndExpressions.genruntimeconfig.cache
