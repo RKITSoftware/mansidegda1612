@@ -1,0 +1,28 @@
+C:\Users\Mansi\source\repos\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.exe
+C:\Users\Mansi\source\repos\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.deps.json
+C:\Users\Mansi\source\repos\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.runtimeconfig.json
+C:\Users\Mansi\source\repos\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.runtimeconfig.dev.json
+C:\Users\Mansi\source\repos\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.dll
+C:\Users\Mansi\source\repos\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.pdb
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.csproj.AssemblyReference.cache
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.AssemblyInfoInputs.cache
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.AssemblyInfo.cs
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.csproj.CoreCompileInputs.cache
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.dll
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.pdb
+C:\Users\Mansi\source\repos\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.genruntimeconfig.cache
+D:\placemant\RKIT training\module 2\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.exe
+D:\placemant\RKIT training\module 2\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.deps.json
+D:\placemant\RKIT training\module 2\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.runtimeconfig.json
+D:\placemant\RKIT training\module 2\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 2\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.dll
+D:\placemant\RKIT training\module 2\DateTimeClass\bin\Debug\netcoreapp3.1\DateTimeClass.pdb
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.AssemblyInfo.cs
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.dll
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.pdb
+D:\placemant\RKIT training\module 2\DateTimeClass\obj\Debug\netcoreapp3.1\DateTimeClass.genruntimeconfig.cache
