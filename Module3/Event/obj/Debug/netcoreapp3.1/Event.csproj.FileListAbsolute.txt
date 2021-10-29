@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 3\Event\bin\Debug\netcoreapp3.1\Event.exe
+D:\placemant\RKIT training\module 3\Event\bin\Debug\netcoreapp3.1\Event.deps.json
+D:\placemant\RKIT training\module 3\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.json
+D:\placemant\RKIT training\module 3\Event\bin\Debug\netcoreapp3.1\Event.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 3\Event\bin\Debug\netcoreapp3.1\Event.dll
+D:\placemant\RKIT training\module 3\Event\bin\Debug\netcoreapp3.1\Event.pdb
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.AssemblyInfo.cs
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.dll
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.pdb
+D:\placemant\RKIT training\module 3\Event\obj\Debug\netcoreapp3.1\Event.genruntimeconfig.cache
