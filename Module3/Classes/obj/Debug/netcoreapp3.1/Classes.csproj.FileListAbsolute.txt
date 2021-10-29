@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 3\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+D:\placemant\RKIT training\module 3\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+D:\placemant\RKIT training\module 3\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+D:\placemant\RKIT training\module 3\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 3\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+D:\placemant\RKIT training\module 3\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+D:\placemant\RKIT training\module 3\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
