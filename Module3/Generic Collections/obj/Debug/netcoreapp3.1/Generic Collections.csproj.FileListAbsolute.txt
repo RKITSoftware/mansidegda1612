@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 3\Generic Collections\bin\Debug\netcoreapp3.1\Generic Collections.exe
+D:\placemant\RKIT training\module 3\Generic Collections\bin\Debug\netcoreapp3.1\Generic Collections.deps.json
+D:\placemant\RKIT training\module 3\Generic Collections\bin\Debug\netcoreapp3.1\Generic Collections.runtimeconfig.json
+D:\placemant\RKIT training\module 3\Generic Collections\bin\Debug\netcoreapp3.1\Generic Collections.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 3\Generic Collections\bin\Debug\netcoreapp3.1\Generic Collections.dll
+D:\placemant\RKIT training\module 3\Generic Collections\bin\Debug\netcoreapp3.1\Generic Collections.pdb
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.AssemblyInfo.cs
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.dll
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.pdb
+D:\placemant\RKIT training\module 3\Generic Collections\obj\Debug\netcoreapp3.1\Generic Collections.genruntimeconfig.cache
