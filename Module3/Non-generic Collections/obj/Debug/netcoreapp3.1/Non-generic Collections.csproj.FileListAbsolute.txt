@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 3\Non-generic Collections\bin\Debug\netcoreapp3.1\Non-generic Collections.exe
+D:\placemant\RKIT training\module 3\Non-generic Collections\bin\Debug\netcoreapp3.1\Non-generic Collections.deps.json
+D:\placemant\RKIT training\module 3\Non-generic Collections\bin\Debug\netcoreapp3.1\Non-generic Collections.runtimeconfig.json
+D:\placemant\RKIT training\module 3\Non-generic Collections\bin\Debug\netcoreapp3.1\Non-generic Collections.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 3\Non-generic Collections\bin\Debug\netcoreapp3.1\Non-generic Collections.dll
+D:\placemant\RKIT training\module 3\Non-generic Collections\bin\Debug\netcoreapp3.1\Non-generic Collections.pdb
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.AssemblyInfo.cs
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.dll
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.pdb
+D:\placemant\RKIT training\module 3\Non-generic Collections\obj\Debug\netcoreapp3.1\Non-generic Collections.genruntimeconfig.cache
