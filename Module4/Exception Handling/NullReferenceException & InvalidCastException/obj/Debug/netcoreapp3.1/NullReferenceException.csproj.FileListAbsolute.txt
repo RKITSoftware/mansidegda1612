@@ -1,0 +1,28 @@
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\bin\Debug\netcoreapp3.1\NullReferenceException.exe
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\bin\Debug\netcoreapp3.1\NullReferenceException.deps.json
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\bin\Debug\netcoreapp3.1\NullReferenceException.runtimeconfig.json
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\bin\Debug\netcoreapp3.1\NullReferenceException.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\bin\Debug\netcoreapp3.1\NullReferenceException.dll
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\bin\Debug\netcoreapp3.1\NullReferenceException.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.dll
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException\obj\Debug\netcoreapp3.1\NullReferenceException.genruntimeconfig.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\bin\Debug\netcoreapp3.1\NullReferenceException.exe
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\bin\Debug\netcoreapp3.1\NullReferenceException.deps.json
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\bin\Debug\netcoreapp3.1\NullReferenceException.runtimeconfig.json
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\bin\Debug\netcoreapp3.1\NullReferenceException.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\bin\Debug\netcoreapp3.1\NullReferenceException.dll
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\bin\Debug\netcoreapp3.1\NullReferenceException.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.dll
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\NullReferenceException & InvalidCastException\obj\Debug\netcoreapp3.1\NullReferenceException.genruntimeconfig.cache

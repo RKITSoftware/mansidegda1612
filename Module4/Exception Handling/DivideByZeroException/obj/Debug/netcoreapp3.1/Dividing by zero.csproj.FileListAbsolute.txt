@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\bin\Debug\netcoreapp3.1\Dividing by zero.exe
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\bin\Debug\netcoreapp3.1\Dividing by zero.deps.json
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\bin\Debug\netcoreapp3.1\Dividing by zero.runtimeconfig.json
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\bin\Debug\netcoreapp3.1\Dividing by zero.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\bin\Debug\netcoreapp3.1\Dividing by zero.dll
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\bin\Debug\netcoreapp3.1\Dividing by zero.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.dll
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\Dividing by zero\obj\Debug\netcoreapp3.1\Dividing by zero.genruntimeconfig.cache

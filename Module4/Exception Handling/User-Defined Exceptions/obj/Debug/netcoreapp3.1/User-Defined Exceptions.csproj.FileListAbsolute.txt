@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\bin\Debug\netcoreapp3.1\User-Defined Exceptions.exe
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\bin\Debug\netcoreapp3.1\User-Defined Exceptions.deps.json
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\bin\Debug\netcoreapp3.1\User-Defined Exceptions.runtimeconfig.json
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\bin\Debug\netcoreapp3.1\User-Defined Exceptions.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\bin\Debug\netcoreapp3.1\User-Defined Exceptions.dll
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\bin\Debug\netcoreapp3.1\User-Defined Exceptions.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.dll
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.pdb
+D:\placemant\RKIT training\module 4\Exception Handling\User-Defined Exceptions\obj\Debug\netcoreapp3.1\User-Defined Exceptions.genruntimeconfig.cache
