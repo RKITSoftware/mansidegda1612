@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\bin\Debug\netcoreapp3.1\Interface.exe
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\bin\Debug\netcoreapp3.1\Interface.deps.json
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.json
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\bin\Debug\netcoreapp3.1\Interface.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\bin\Debug\netcoreapp3.1\Interface.dll
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\bin\Debug\netcoreapp3.1\Interface.pdb
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.dll
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.pdb
+D:\placemant\RKIT training\module 4\Interface & inheritance\Interface\obj\Debug\netcoreapp3.1\Interface.genruntimeconfig.cache
