@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 4\File Operations\bin\Debug\netcoreapp3.1\File Operations.exe
+D:\placemant\RKIT training\module 4\File Operations\bin\Debug\netcoreapp3.1\File Operations.deps.json
+D:\placemant\RKIT training\module 4\File Operations\bin\Debug\netcoreapp3.1\File Operations.runtimeconfig.json
+D:\placemant\RKIT training\module 4\File Operations\bin\Debug\netcoreapp3.1\File Operations.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\File Operations\bin\Debug\netcoreapp3.1\File Operations.dll
+D:\placemant\RKIT training\module 4\File Operations\bin\Debug\netcoreapp3.1\File Operations.pdb
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.dll
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.pdb
+D:\placemant\RKIT training\module 4\File Operations\obj\Debug\netcoreapp3.1\File Operations.genruntimeconfig.cache
