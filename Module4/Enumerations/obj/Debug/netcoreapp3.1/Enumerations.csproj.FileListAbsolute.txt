@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 4\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.exe
+D:\placemant\RKIT training\module 4\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.deps.json
+D:\placemant\RKIT training\module 4\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.json
+D:\placemant\RKIT training\module 4\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 4\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.dll
+D:\placemant\RKIT training\module 4\Enumerations\bin\Debug\netcoreapp3.1\Enumerations.pdb
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.AssemblyInfo.cs
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.dll
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.pdb
+D:\placemant\RKIT training\module 4\Enumerations\obj\Debug\netcoreapp3.1\Enumerations.genruntimeconfig.cache
