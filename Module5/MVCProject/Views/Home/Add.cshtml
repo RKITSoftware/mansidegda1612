@@ -1,0 +1,37 @@
+﻿@model MVCProject.Models.Book
+
+<form method="post" asp-action="AddBook">
+    <div class="container">
+        <h2>Add Book</h2>
+        <div class="row">
+            <div class="col-md-3">
+                <label asp-for="BookID"></label>
+            </div>
+            <div>
+                <input asp-for="BookID" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label asp-for="BookName"></label>
+            </div>
+            <div>
+                <input asp-for="BookName" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <label asp-for="AuthorName"></label>
+            </div>
+            <div>
+                <input asp-for="AuthorName" class="form-control" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <input type="submit" class="btn btn-info w-100" value="Add" />
+            </div>
+        </div>
+    </div>
+</form>
+
