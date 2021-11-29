@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfBook xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Book>
+    <BookID>1</BookID>
+    <BookName>THE GUIDE</BookName>
+    <AuthorName>R.K</AuthorName>
+  </Book>
+  <Book>
+    <BookID>2</BookID>
+    <BookName>MALGUDI DAYS</BookName>
+    <AuthorName>R.K</AuthorName>
+  </Book>
+  <Book>
+    <BookID>3</BookID>
+    <BookName>THE PRIVATE LIFE OF AN INDIAN PRINCE</BookName>
+    <AuthorName>MULK RAJ ANAND</AuthorName>
+  </Book>
+  <Book>
+    <BookID>4</BookID>
+    <BookName>UNTOUCHABLE</BookName>
+    <AuthorName>MULK RAJ ANAND</AuthorName>
+  </Book>
+</ArrayOfBook>

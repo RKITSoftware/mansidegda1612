@@ -1,0 +1,14 @@
+D:\placemant\RKIT training\module 5\SerializationDemo\bin\Debug\netcoreapp3.1\SerializationDemo.exe
+D:\placemant\RKIT training\module 5\SerializationDemo\bin\Debug\netcoreapp3.1\SerializationDemo.deps.json
+D:\placemant\RKIT training\module 5\SerializationDemo\bin\Debug\netcoreapp3.1\SerializationDemo.runtimeconfig.json
+D:\placemant\RKIT training\module 5\SerializationDemo\bin\Debug\netcoreapp3.1\SerializationDemo.runtimeconfig.dev.json
+D:\placemant\RKIT training\module 5\SerializationDemo\bin\Debug\netcoreapp3.1\SerializationDemo.dll
+D:\placemant\RKIT training\module 5\SerializationDemo\bin\Debug\netcoreapp3.1\SerializationDemo.pdb
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.csproj.AssemblyReference.cache
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.AssemblyInfoInputs.cache
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.AssemblyInfo.cs
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.csproj.CoreCompileInputs.cache
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.dll
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.pdb
+D:\placemant\RKIT training\module 5\SerializationDemo\obj\Debug\netcoreapp3.1\SerializationDemo.genruntimeconfig.cache
