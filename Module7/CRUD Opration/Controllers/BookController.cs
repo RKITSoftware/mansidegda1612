@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -8,42 +8,87 @@ using CRUD_Opration.Models;
 
 namespace CRUD_Opration.Controllers
 {
+    /// <summary>
+    /// Controller class of Book
+    /// public methods:
+    /// GetAll,
+    /// Get,
+    /// Add,
+    /// Update,
+    /// Delete
+    /// </summary>
     public class BookController : ApiController
     {
-        database objdatabase = new database();
-        // GET: api/Book
+        #region Public members
+
+        //object of BL class
+        BLBook objdatabase = new BLBook();
+
+        /// <summary>
+        /// GetAll method 
+        /// return type : List<Book>
+        /// </summary>
+        
+        //api/Getall
         [Route("api/Getall")]
         public List<Book> GetAll()
         {
             return (objdatabase.selectAll());
         }
 
-        // GET: api/Book/5
+        /// <summary>
+        /// Get method 
+        /// return type : Book
+        /// parameter :int id
+        /// </summary>
+
+        //api/Get/4
         [Route("api/Get/{id}")]
         public Book Get(int id)
         {
             return (objdatabase.getBookById(id));
         }
 
-        // POST: api/Book
+        /// <summary>
+        /// Add method 
+        /// return type : string
+        /// parameter : Book objBook
+        /// </summary>
+
+        //api/Add
         [HttpPost]
         [Route("api/Add")]
-        public void Add([FromBody]Book objBook)
+        public string Add([FromBody]Book objBook)
         {
-            objdatabase.addBook(objBook);
-        }
-        [HttpPost]
-        [Route("api/Update")]
-        public void Update([FromBody] Book objBook)
-        {
-            objdatabase.updateBook(objBook);
+            return objdatabase.addBook(objBook);
         }
 
-        // DELETE: api/Book/5
-        [Route("api/Delete/{id}")]
-        public void Delete(int id)
+        /// <summary>
+        /// Update method 
+        /// return type : string
+        /// parameter : Book objBook
+        /// </summary>
+
+        //api/Update
+        [HttpPost]
+        [Route("api/Update")]
+        public string Update([FromBody] Book objBook)
         {
-            objdatabase.deleteBook(id);
+            return objdatabase.updateBook(objBook);
         }
+
+        /// <summary>
+        /// Delete method 
+        /// return type : string
+        /// parameter : int id
+        /// </summary>
+
+        //api/delete
+        [Route("api/Delete/{id}")]
+        public string Delete(int id)
+        {
+           return objdatabase.deleteBook(id);
+        }
+        #endregion Public members
     }
 }
