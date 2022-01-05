@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -24,9 +24,9 @@ namespace CRUD_Opration
         public static string ConnectionString = System.Configuration.ConfigurationManager.ConnectionStrings["sqlconnection"].ConnectionString;
 
         /// <summary>
-        /// selectAll method 
-        /// return type : List<Book>
+        /// selectAll method
         /// </summary>
+        /// <returns>List<Book></returns>
         public List<Book> selectAll()
         {
             List<Book> books = new List<Book>();
@@ -71,9 +71,9 @@ namespace CRUD_Opration
 
         /// <summary>
         /// getBookById method 
-        /// return type : Book
-        /// parameter :int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>Book</returns>
         public Book getBookById(int id)
         {
             Book books = new Book();
@@ -114,9 +114,9 @@ namespace CRUD_Opration
 
         /// <summary>
         /// addBook method 
-        /// return type : string
-        /// parameter : Book objBook
+        /// <param name="objBook">Book objBook</param>
         /// </summary>
+        /// <returns>string</returns>
         public string addBook(Book objBook)
         {
             List<Book> books = new List<Book>();
@@ -155,9 +155,9 @@ namespace CRUD_Opration
 
         /// <summary>
         /// deleteBook method 
-        /// return type : string
-        /// parameter : int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>string</returns>
         public string deleteBook(int id)
         {
             using (MySqlConnection conn = new MySqlConnection(ConnectionString))
@@ -194,9 +194,9 @@ namespace CRUD_Opration
 
         /// <summary>
         /// updateBook method 
-        /// return type : string
-        /// parameter : Book objBook
+        /// <param name="objBook">Book objBook</param>
         /// </summary>
+        /// <returns>string</returns>
         public string updateBook(Book objBook)
         {
             List<Book> books = new List<Book>();
