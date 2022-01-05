@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -33,8 +33,8 @@ namespace HttpVerbs.BL_class
 
         /// <summary>
         /// GetCompleteList method 
-        /// return type : List<Book>
         /// </summary>
+        /// <returns>List<Book></returns>
         public List<Book> GetCompleteList()
         {
             return books;
@@ -42,9 +42,9 @@ namespace HttpVerbs.BL_class
 
         /// <summary>
         /// GetListByID method 
-        /// return type : Book
-        /// parameter :int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>Book</returns>
         public Book GetListByID(int id)
         {
             return books.Where(temp => temp.BookID == id).FirstOrDefault();
@@ -53,9 +53,9 @@ namespace HttpVerbs.BL_class
 
         /// <summary>
         /// AddItem method 
-        /// return type : void
-        /// parameter : Book newBook
+        /// <param name="newBook">Book newBook</param>
         /// </summary>
+        /// <returns>void</returns>
         public void AddItem(Book newBook)
         {
             books.Add(newBook);
@@ -63,9 +63,9 @@ namespace HttpVerbs.BL_class
 
         /// <summary>
         /// RemoveItem method 
-        /// return type : void
-        /// parameter : int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>void</returns>
         public void RemoveItem(int id)
         {
             books.Remove(books.Where(x => x.BookID == id).FirstOrDefault());
@@ -73,9 +73,10 @@ namespace HttpVerbs.BL_class
 
         /// <summary>
         /// EditItem method 
-        /// return type : void
-        /// parameter : int id, Book EditBook
+        /// <param name="id">int id</param>
+        /// <param name="newBook">Book EditBook</param>
         /// </summary>
+        /// <returns>void</returns>
         public void EditItem(int id, Book EditBook)
         {
             books[id] = EditBook;
