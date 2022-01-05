@@ -26,9 +26,9 @@ namespace CRUD_Opration.Controllers
 
         /// <summary>
         /// GetAll method 
-        /// return type : List<Book>
         /// </summary>
-        
+        /// <returns>List<Book></returns>
+
         //api/Getall
         [Route("api/Getall")]
         public List<Book> GetAll()
@@ -38,9 +38,9 @@ namespace CRUD_Opration.Controllers
 
         /// <summary>
         /// Get method 
-        /// return type : Book
-        /// parameter :int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>Book</returns>
 
         //api/Get/4
         [Route("api/Get/{id}")]
@@ -51,9 +51,9 @@ namespace CRUD_Opration.Controllers
 
         /// <summary>
         /// Add method 
-        /// return type : string
-        /// parameter : Book objBook
+        /// <param name="objBook">Book objBook</param>
         /// </summary>
+        /// <returns>string</returns>
 
         //api/Add
         [HttpPost]
@@ -65,9 +65,9 @@ namespace CRUD_Opration.Controllers
 
         /// <summary>
         /// Update method 
-        /// return type : string
-        /// parameter : Book objBook
+        /// <param name="objBook">Book objBook</param>
         /// </summary>
+        /// <returns>string</returns>
 
         //api/Update
         [HttpPost]
@@ -79,9 +79,9 @@ namespace CRUD_Opration.Controllers
 
         /// <summary>
         /// Delete method 
-        /// return type : string
-        /// parameter : int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>string</returns>
 
         //api/delete
         [Route("api/Delete/{id}")]
