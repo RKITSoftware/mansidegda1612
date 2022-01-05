@@ -1,83 +1,80 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using HttpVerbs.Models;
+using HttpVerbs.BL_class;
 
 namespace HttpVerbs.Controllers
 {
-    public class BookList
-    {
-        List<Book> books = new List<Book>();
-        public BookList()
-        {
-            books.Add(new Book { BookID = 1, BookName = "THE GUIDE", AuthorName = "R.K" });
-            books.Add(new Book() { BookID = 2, BookName = "MALGUDI DAYS", AuthorName = "R.K" });
-            books.Add(new Book() { BookID = 3, BookName = "THE PRIVATE LIFE OF AN INDIAN PRINCE", AuthorName = "MULK RAJ ANAND" });
-            books.Add(new Book() { BookID = 4, BookName = "UNTOUCHABLE", AuthorName = "MULK RAJ ANAND" });
-                
-        }
-
-        public List<Book> GetCompleteList()
-        {
-            return books;
-        }
-
-        public Book GetListByID(int id)
-        {
-            return books.Where(temp => temp.BookID == id).FirstOrDefault();
-
-        }
-
-        public void AddItem(Book newBook)
-        {
-            books.Add(newBook);
-        }
-
-        public void RemoveItem(int id)
-        {
-            books.Remove(books.Where(x => x.BookID==id).FirstOrDefault());
-        }
-
-        public void EditItem(int id, Book EditBook)
-        {
-            books[id] = EditBook;
-        }
-    }
+    /// <summary>
+    /// Controller class of Book
+    /// public methods:
+    /// GetAll,
+    /// Get,
+    /// Post,
+    /// Put,
+    /// Delete
+    /// </summary>
     public class BookController : ApiController
     {
-        BookList objBookList = new BookList();
-        // GET: api/book
-        public List<Book> Get()
+        //object of BL class
+        BLBook objBookList = new BLBook();
+
+        #region public mambers
+
+        /// <summary>
+        /// GetAll method 
+        /// return type : List<Book>
+        /// </summary>
+        public List<Book> GetAll()
         {
             List<Book> books = objBookList.GetCompleteList();
             return books;
         }
 
-        // GET: api/book/5
+        /// <summary>
+        /// Get method 
+        /// return type : Book
+        /// parameter :int id
+        /// </summary>
         public Book Get(int id)
         {
             return objBookList.GetListByID(id);
         }
 
-        // POST: api/book
+        /// <summary>
+        /// Post method 
+        /// return type : void
+        /// parameter : Book newBook
+        /// </summary>
         public void Post(Book newBook)
         {
             objBookList.AddItem(newBook);
         }
 
-        // PUT: api/book/5
+        /// <summary>
+        /// Put method 
+        /// return type : void
+        /// parameter : int id, Book EditBook
+        /// </summary>
         public void Put(int id, Book editBook)
         {
             objBookList.EditItem(id, editBook);
         }
 
-        // DELETE: api/book/5
+        /// <summary>
+        /// Delete method 
+        /// return type : void
+        /// parameter : int id
+        /// </summary>
         public void Delete(int id)
         {
             objBookList.RemoveItem(id);
         }
+        #endregion public mambers
     }
 }
+
