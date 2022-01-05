@@ -27,8 +27,8 @@ namespace HttpVerbs.Controllers
 
         /// <summary>
         /// GetAll method 
-        /// return type : List<Book>
         /// </summary>
+        /// <returns>List<Book></returns>
         public List<Book> GetAll()
         {
             List<Book> books = objBookList.GetCompleteList();
@@ -37,9 +37,9 @@ namespace HttpVerbs.Controllers
 
         /// <summary>
         /// Get method 
-        /// return type : Book
-        /// parameter :int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>Book</returns>
         public Book Get(int id)
         {
             return objBookList.GetListByID(id);
@@ -47,9 +47,9 @@ namespace HttpVerbs.Controllers
 
         /// <summary>
         /// Post method 
-        /// return type : void
-        /// parameter : Book newBook
+        /// <param name="newBook">Book newBook</param>
         /// </summary>
+        /// <returns>void</returns>
         public void Post(Book newBook)
         {
             objBookList.AddItem(newBook);
@@ -57,9 +57,10 @@ namespace HttpVerbs.Controllers
 
         /// <summary>
         /// Put method 
-        /// return type : void
-        /// parameter : int id, Book EditBook
+        /// <param name="id">int id</param>
+        /// <param name="newBook">Book EditBook</param>
         /// </summary>
+        /// <returns>void</returns>
         public void Put(int id, Book editBook)
         {
             objBookList.EditItem(id, editBook);
@@ -67,9 +68,9 @@ namespace HttpVerbs.Controllers
 
         /// <summary>
         /// Delete method 
-        /// return type : void
-        /// parameter : int id
+        /// <param name="id">int id</param>
         /// </summary>
+        /// <returns>void</returns>
         public void Delete(int id)
         {
             objBookList.RemoveItem(id);
@@ -77,4 +78,5 @@ namespace HttpVerbs.Controllers
         #endregion public mambers
     }
 }
+
 
